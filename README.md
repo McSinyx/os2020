@@ -1,5 +1,5 @@
 USTH ICT 2020 Operating System
-=====================================
+==============================
 
 Students are expected to:
 * Fork this repository to your github account
@@ -7,8 +7,7 @@ Students are expected to:
 
 
 Student Info
-=========================
+============
 
-* Student Name: *Put your name here*
-* Student ID: *Put your ID here*
-
+* Student Name:  Nguyễn Gia Phong
+* Student ID:  BI9-184
